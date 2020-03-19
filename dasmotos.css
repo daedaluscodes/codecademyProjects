@@ -1,0 +1,12 @@
+h1 {font-family: Helvetica, sans-serif;
+font-size: 100px; font-weight: bold; 
+color: khaki; text-align: center;
+background-image: url("/media/daedalus/Storage/Coding Projects/Original Works/DevProject/resources/pattern.jpeg");}
+h2 {font-family: Helvetica, sans-serif;
+font-size: 32px; font-weight: bold;
+color: white; 
+background-color: mediumspringgreen;}
+h2#frames {background-color: lightcoral;}
+h2#paint {background-color: skyblue;}
+strong {font-family: Helvetica, sans-serif;
+color: blue;}
